@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Robertson",
+  "age": 23,
+  "address": {
+    "street": "Gacse Square",
+    "city": "Ahosimmad",
+    "state": "RI",
+    "zip": "30106"
+  },
+  "contact": {
+    "phone": "(809) 567-3548",
+    "servicePhone": "800869941"
+  },
+  "birthday": "1971-06-08T00:22:50.143Z",
+  "ip": "117.159.129.108",
+  "foo": "bar",
+  "profile": {
+    "about": "Naroz nugimda efa dupnugej mewirawib epone jugwi ifku acidaimu voiz filako ha bir hel. Gukunig uheerenu ah ruccimol sepgop beebli pisoplog gewaka zarurij mafiru ni wad kugcub zomholu vuk naw. Ne ehowac johavpo holraw idi ki sud in uzzuznap hiesuro zecabe mu teuffuj jefbo jelok bigonfam.",
+    "bio": "Veg mel jargejra hopje at ojtiwo catif fo nov pisuk aw fazug kacaf uboob ib letahoesu nuhozu juju. Wom bejacik ko nicwatem horfefuw rabmu cevahi kic gewuzap tiruk rotgume lon udos minluhnu. Suvugak to umeelupu don wod gauge van pegu sitohi sizporwuw zawe siv givhine. Wuz new bigciwak fenviv mulekla opunug da sogeduiju cudihog lodu goc pagesi."
+  },
+  "apiKey": "f6ac759333be2e0162a8c5b03dc17cc04349650c35c3022491677b0495e0a821",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
