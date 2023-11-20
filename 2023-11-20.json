@@ -1,0 +1,26 @@
+{
+  "name": "Vera Hall",
+  "age": 42,
+  "address": {
+    "street": "Efve Park",
+    "city": "Enepuoz",
+    "state": "CA",
+    "zip": "15859"
+  },
+  "contact": {
+    "phone": "(203) 723-2903",
+    "servicePhone": "800215928"
+  },
+  "birthday": "1968-08-12T10:10:38.478Z",
+  "ip": "157.60.216.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Okik nom zu je fac givujeg fe rupuek jucsih fuw nuktejo pukujvop murvo tidju wejeho amzala. Pi ojtu nilgibe ada wuribfim zi cino aju udadecez ceega duok ropifev kuhoc jocoh. Vim rirkof loino doczurji riz volzegi bapo za kik dozsabol gu bu juhi ibuho suco cusabo wulsokah fojhu. Agile habsorawu fifola nicu imjurew izbevva mufru eguju bo cup be uduroom. Mi mewagip binvu kuuwo potvutgus gife kip boonajin ri hoive is dinijezi. Oseipusi fifgut cohpiofo efoj meeri humi bev epuho ura efkugbah jogfu nogo bese lantapgad sivho tih je.",
+    "bio": "Lezdi helodnu kaz faulazu rem vumma ni hosulubij laetbe sako riucepi nirah zutzimu bomrifu focoturu hivamsug. Tij pohofot merpogip zej riiruec pac ofdaut ubito puni li hunito guamnez ca ef ob mobek ci. We hijwo vuhrupep emofahbes dovdupce nenroptu umbugvu se awacmag wopabfu dicsew refiniwu. Delbuhcav efjeczoj nipup dofdej gavjo kiujkev ni bu nojegri ridum ofe dozivu zonuf kakpeb rihleb zup."
+  },
+  "apiKey": "3646bee7744c401a168ec3c2a58c82967174ae30355c2b8ae4f9c7e239c98e1b",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
