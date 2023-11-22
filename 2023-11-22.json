@@ -1,0 +1,26 @@
+{
+  "name": "Alta Henry",
+  "age": 29,
+  "address": {
+    "street": "Bivgas Loop",
+    "city": "Gisahu",
+    "state": "CO",
+    "zip": "51223"
+  },
+  "contact": {
+    "phone": "(429) 382-8120",
+    "servicePhone": "800699781"
+  },
+  "birthday": "1964-09-23T04:52:52.707Z",
+  "ip": "10.200.66.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Ni sitfi re dozru dessosu mu worducsew satuve selva noz gakguve su. Vewbuhbu cet gidod zemmah megiwi gawok fal uci modimri rafeje mefredsu huvordi izigimfo keppi bak limsuftow se ezzom. Iseaje nu leraza onruca jih kallo memi babfihkiv wahuon ze wisu wuzkupje ka zun omigas. Kowan girmuvik caflesuf todaomi pa kujewu re me povelsic wupnavum tidi ulajo puv hozgas hukedkes cido tucka goza. Mebomcij wizho vi gipe kinehba ah ruf kicce aza ub peicsu diz vumve lalbokred bow. Zoh at cekvowuhu niatim wa ka ami his dostifuh osaeku dijnikco owuteem lapewo aheedo fijpicfel.",
+    "bio": "Miviwbi nap wadoic tikvaget derbom nefuzvek viral fegve epefarme nam dakispam cezebbe wa hisok. Ota suwi atu pipla haul ewdek catejasa kakoped wuhihien hihkop ap fo vagouju wiijate. Ortadez titik bucat hubhurda uhianwig bani seevulu wamkavi nop guwupa wodap we kacagan gubucoc. Riruszet pevsuz gegut eswocej ezetoivu aliturog men erme vurri uc utzona vidozgo gedpeg mew. Kifcapas wigaj hakuk re lujuv fod bocil fube figzat jo owiem rotus zewjuuv sekurki sagij bazazi wuteebu. Pic zotjenu jud suri lahov tuten nohom tat sekebolu turagjal aje zulajafu okoleul vajturaf usa semsinsum tebpu ohagow."
+  },
+  "apiKey": "a6bb1f03cd31d96488c86ca623006557af3fec5681f4a4620066a2fa0ff2ccfd",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
