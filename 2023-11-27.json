@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Doyle",
+  "age": 54,
+  "address": {
+    "street": "Allo Road",
+    "city": "Apawenoro",
+    "state": "NH",
+    "zip": "07721"
+  },
+  "contact": {
+    "phone": "(601) 380-4770",
+    "servicePhone": "800162782"
+  },
+  "birthday": "1959-12-20T18:03:16.042Z",
+  "ip": "204.195.75.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Fuzhafnor ji eda pib pungaklam nizjugveg muc ugitufec abo ulasevdop nacuf cef kal cijmocu. Rocim welo dun folu wurmem gi hucukzec ve vugivjib wentecma rozib zofovaf. Mumwolser ofuji zuc usu ni pehalco juszuvpu tilohaz vupotiki duhsafoc ezoja dipa ika lekumaf. Sihelti tu mo tofgo og fitga esu nupezcin wi fibgafe ene be. Wa ud heemo utza sevac ri mugrir linjozim wuaze fughobur of coiga ra iradazus zotha woz wu vozic. Atojosbe sivokus sohevbog ugmo wul nahgolbep herrekvow wenojjah zacbi lu pav diz huswam ha.",
+    "bio": "Vepmerod vuosipi lekojri lari hifej go katif kusi fate hitri facif entikev evoba capu daoculu luju mevitsi. An imuutkal giget idirih hekeba ki cekup hak hiew ahoz resut ijofes awo onpopene. Mifagab puf hos gikoilu siono bapi janiz zusfu nuvleczaj ife poulosi amkob jeg epu huckodgo."
+  },
+  "apiKey": "6eb9e423a0c77696c33c065e4e6ce0bedc406695e7eb78e16847132fc01c5c28",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
