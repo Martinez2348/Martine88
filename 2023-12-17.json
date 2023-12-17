@@ -1,0 +1,26 @@
+{
+  "name": "Brent Craig",
+  "age": 19,
+  "address": {
+    "street": "Ojimu Lane",
+    "city": "Ciwzehne",
+    "state": "PA",
+    "zip": "16259"
+  },
+  "contact": {
+    "phone": "(823) 635-1887",
+    "servicePhone": "800372222"
+  },
+  "birthday": "1975-11-26T23:42:36.626Z",
+  "ip": "99.81.194.106",
+  "foo": "bar",
+  "profile": {
+    "about": "Riki effeh muuc fedac jufid ma losujo bihni javidaw uk mukure zeumdip cihdiak usli. Reavsi ihweg or ribvug huvovmo sog on nin kur zefuah eraf veg icava opibeket bo. Ucenoeda bih apma gofa mon wad busbim fofis eciuju lawgafe kaf pefa farmif zav lupagom. Aspefir sol midali tapisud amgegluh iputezwip kiupbav jasidko sep ziv tez fizda.",
+    "bio": "Weloj fenut dighom geucepe suiwe usetolje gahpo sevu bi ap cid wok gugudouce. Upasoata si fod pemikuf zicsafuv taziibo gobdofsez sov po zufo bogsabfi var ciut ze kasvub. Hum azekifes ajazufo gegbos kefugno gaupfuj se dij va gam zam fumador ih zigatu zatwo pugige hena."
+  },
+  "apiKey": "7eeb72a40e52c11f5e3826b2d9820f362344d8be4af76dbc1f2841d6b04bdaf3",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
