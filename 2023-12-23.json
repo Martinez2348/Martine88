@@ -1,0 +1,26 @@
+{
+  "name": "Adrian McCormick",
+  "age": 22,
+  "address": {
+    "street": "Koha Place",
+    "city": "Inonemal",
+    "state": "IA",
+    "zip": "62755"
+  },
+  "contact": {
+    "phone": "(251) 932-3980",
+    "servicePhone": "800448666"
+  },
+  "birthday": "1998-10-27T20:40:39.861Z",
+  "ip": "214.254.110.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Uho uwhuogu hefilu safew huzu nek totabu vittu ojazewpe voda wivder do tuwka. Boespi relmi ruk ta ur unge cam wejumiv ijbo lecleguk tagkatuh wolkol idulodneb fuiho. Fi nar kivegasil ted nowedwo je ko senke cevbi lejjafzum orowetzu magtefe ajfi mazoveli civupa do.",
+    "bio": "Kouzuif ijohowo senweder le moblom iwo wateubi dab tuw najimu foz bebrontaj kulsuj cijkeru zathad iszo fa. Uheham ocfe nazlop uno tuvipmop vu zin lan jekejwic jiddu te wefaoni vurpajhuw. Ugeikdo kejoreow oka weipumi kuwum bo tevvupfi ehu kizfimpav ca ojoujzo hobjibepa. Bam di guz bih wanahmu ikrew jiviprop siehmis nusoviz jabule keszotu meebu seh egu ropmilbup dinvo usbof. Luwimol no vuger potacep pozbehji kejfez zigse ru nu ime domeic il. Tamijugav hajiho naah piwuvvet picu koguctuk juptugiv zowurrij ile san kuvfommen dovgahma eze ka. Aha rar oco hig zeccumuh doj lud jiwvez dawzu otaovada me kugji gi je racefzu gova."
+  },
+  "apiKey": "68ad4369d8424eead449def82e7e8d20dfdaf6430652f9fcd2af7d7a04975200",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
