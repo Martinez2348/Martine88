@@ -1,0 +1,26 @@
+{
+  "name": "Adam Frank",
+  "age": 65,
+  "address": {
+    "street": "Setu Pike",
+    "city": "Rogippi",
+    "state": "TX",
+    "zip": "91280"
+  },
+  "contact": {
+    "phone": "(867) 558-2335",
+    "servicePhone": "800673455"
+  },
+  "birthday": "1974-01-31T09:00:25.717Z",
+  "ip": "135.52.226.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Wigo bincoteh ovra ferraga buucu vij bus ad keik kizahani luvomija vavil jaupiewi mi. Eceelasil ejukot burfodga rolu budcuw azo eju ut jaecvu jeife la wizfobihu. Ekabahi zakruhre pucuk jufaj selcak kibjurwu workuh rasoh daw sobmi ci renwu. Pa tep wavre padutel du sam jec sicbofuk amine morokha cit va. Vow pur micum cushi otavo om ti wohoru moflal egivahsen zelapa denom bug.",
+    "bio": "Zuid pevanpak jat onedako zebunuuh biliwut kikictob souccu ibihicas suh lebji ve ral ji zen. Pasal fauze asibamovo momitav digas ru re idopu sutcigna hukize tot ici. Pebuof umehirsop piucro tu nuz vo icied kuruhju bi wutbaplu bih gumusowaj guv hajhaet oge jekzitpep aczib."
+  },
+  "apiKey": "17a652537f016131128c34b8322a24172608ad104573b7a068ff3241a2cd93fb",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
