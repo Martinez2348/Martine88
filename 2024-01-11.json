@@ -1,0 +1,26 @@
+{
+  "name": "Elva Erickson",
+  "age": 55,
+  "address": {
+    "street": "Tuzowu Point",
+    "city": "Wuravi",
+    "state": "MN",
+    "zip": "30255"
+  },
+  "contact": {
+    "phone": "(746) 373-6792",
+    "servicePhone": "800699877"
+  },
+  "birthday": "1993-05-09T07:57:38.427Z",
+  "ip": "17.136.125.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Vovej pe lac pep hudomoga vatobcaw mekusza ukame fowsukre pofbij rohugkag owukom narded. Isaef veraate dat vohsul rucnumu uka kaskihef budus cuov vortis mivnojfa uzba sulloteco jugu ta ahi. Abe ruvraiwo vobanij sut cavzovo lecavu sopemo cer periw ib boctihu piro hu zizubzo mahar wocvom zepzenifa.",
+    "bio": "Haduoj akhiwud hudimaaho re godos letobjah poceugi ibecad peuzipo vaval husehi tigitpo nap. Ovmu me lerzonev ewo ugep suf vot kaz sot liel pu recioru ukihu oknotso. Leslozbec girbe kelkuk lano hacodzap pulekka lowrile puzilidi idipis avti jarok zeoszo bol."
+  },
+  "apiKey": "aec9c6f1e96205dc7955394ba9a1365b158223c2f99c479bbacc4549442dee59",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
