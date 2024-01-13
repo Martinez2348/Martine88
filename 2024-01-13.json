@@ -1,0 +1,26 @@
+{
+  "name": "Iva Luna",
+  "age": 60,
+  "address": {
+    "street": "Orkug Way",
+    "city": "Guebeliv",
+    "state": "NY",
+    "zip": "95045"
+  },
+  "contact": {
+    "phone": "(814) 821-9189",
+    "servicePhone": "800294842"
+  },
+  "birthday": "2000-09-19T05:43:00.743Z",
+  "ip": "85.29.137.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Zedewipi tadeja nijagfo kep ifotir ja ve zomev wazji vevvotak som doeb idrit emo. Sivhaf jipzi duh gem win sut vucoh he rufleif fabnusotu tamu lobihdo lahab ebfut ividejwew zothir. Foh amkozun busihikas idjaul waumoecu nojam sufom vigzeca datpa utehenan oce at.",
+    "bio": "Ebhor pa po uwedro ef piopni lusufihe tuvlu fuzzal nozobag zomtug zewawuopi cebojgig hip el suri vicsi. Tamhuh gizu zijutogaw hacag lecala sime ebina heobton idakde vicih jativ fo. Ra foh vodep vew kukwik zo tiahitor wukzunih caw segra su libbepbef nec mazmab vaco ocjeej mi mih."
+  },
+  "apiKey": "af27e38d80a90444c37744a20446208b33bb44ade3c53925b26c9de61206f064",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
