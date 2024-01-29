@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Manning",
+  "age": 62,
+  "address": {
+    "street": "Dotwuf Glen",
+    "city": "Ugvoler",
+    "state": "CT",
+    "zip": "51764"
+  },
+  "contact": {
+    "phone": "(332) 750-8848",
+    "servicePhone": "800226735"
+  },
+  "birthday": "1994-07-14T00:00:11.494Z",
+  "ip": "209.207.97.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Fecme forlak ihobonsi hep ose odavisjeh jimas kinuvi meramuowa ew jowivve necara vu bafis laroggi. Imaruni sus gozbit man ib ahaade acida ug gijfe leocjo taknek gevepav niruz. Eboeb idurar copufo nit oc sobfiw wu hozav en vom zu uhuezo jifge vejporeh.",
+    "bio": "Goje vuhvah ikepudud heucu ziwus fop jipuko ticussuv bo malvulej odi vabcanu icat use nipzac hegagjid tu gepusi. Wo ofomeel rug mezciuh mufme nejhep vita rew tosudazu so ijesu eje li. Tojjap jimbujata epikohhe ozoli rolla we leh viagi cuodrol siakewo ta sununad ga si daew miokte fatolzu."
+  },
+  "apiKey": "5df016d1d766c27c08d81882b96c7bf04ea3c437b079f7e939bb9e9abec32e23",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
