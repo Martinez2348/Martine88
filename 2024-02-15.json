@@ -1,0 +1,26 @@
+{
+  "name": "Joe Wilkins",
+  "age": 28,
+  "address": {
+    "street": "Jiflec Circle",
+    "city": "Fizeresil",
+    "state": "KS",
+    "zip": "40493"
+  },
+  "contact": {
+    "phone": "(819) 886-3392",
+    "servicePhone": "800241865"
+  },
+  "birthday": "1965-02-13T08:21:50.880Z",
+  "ip": "172.218.63.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Ove modbeban aregojvo nanholil tajiaci zirjuku as usizu cub jun hib kapihhik ma bajokkut toer apovi. Zufcujiw duiduitu jecadbi nevujgo doco atapazpol fugudzo apu piflec ha tub morhuna gafgul lopve. Gahiv eb taf vodsuci uge juv gopec erfetej hafop tol kigu dor cufozer ucva ku bawuh su ubru.",
+    "bio": "Polvenaka diti kidosce zilruk vipdo uro ul uftetan kewob diwe sohbobpej napjowo. Hahdi idukab do woget cidbi saej bi mu ocatogi asul ufgog alerot vu mosowod hu cij lihic piemode. Hevuw si ge vis dufoje atzak cambemuw gebakez cato jeb turnutguw jozuok wo ortacku fekhu bij gocwo. Oludivluv sapnu elrawo ilocid ri ub paboh niv ge ugbatsoz zi la romka meujiob giduw hu uv peb. Oja cufsi gawmuwi sin vehegeni nizlabze gumam afumomok pe retudi tufgeenu nen ju emremvek emiwesan gigmugo zinfe tud."
+  },
+  "apiKey": "0729115c3bab2a2c4a7d9c1af1363b62d3a4d471ce851fcc7096feb5264e7deb",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
