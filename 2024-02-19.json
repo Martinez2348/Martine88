@@ -1,0 +1,26 @@
+{
+  "name": "Helen Knight",
+  "age": 33,
+  "address": {
+    "street": "Zaste Loop",
+    "city": "Rinuso",
+    "state": "IN",
+    "zip": "43349"
+  },
+  "contact": {
+    "phone": "(443) 345-8857",
+    "servicePhone": "800519181"
+  },
+  "birthday": "1961-06-23T10:32:50.393Z",
+  "ip": "62.80.237.3",
+  "foo": "bar",
+  "profile": {
+    "about": "Kigaf ritben emwoha ka zi mo fomemas ruudi kiwlab puatuko repizur eg. Wenekvop is zirevu didpofkon he da teppon did cizcuwu susip wu merfape wal. Ju wu leb vo jecrikji fajik hejrera josnigis nuvdotag bi zawabihal haos nigekej memever sezezen.",
+    "bio": "Hipik wicrow ad lojatni ke dawlugtu wugmima ufodula zep uwotinele filu ofavog sideh lu amunuv wup. Uzo uw suzu lotfa jot mud vo soblusog cotmij davzehos lialcin zof waertu retevag vihu helkonrev ba. Vum ihumuuk podler jenzep ecra ibta useav woub weloj coniha nikuhku sa sahecru tedrug neksed gunonew. Rar mial ibuliw cajnilbe fosadi wimuwij ja zinvotup ekatem hagog ah hikifo gowwum kudzugvem umkaj genkup wavor."
+  },
+  "apiKey": "b8713d11093e154ef509c378f9689e7d332fa673bf950783f8cb5ad6dd95bbd6",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
