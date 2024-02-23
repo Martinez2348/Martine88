@@ -1,0 +1,26 @@
+{
+  "name": "Jackson Miles",
+  "age": 18,
+  "address": {
+    "street": "Nonjek Pass",
+    "city": "Liseem",
+    "state": "CA",
+    "zip": "14793"
+  },
+  "contact": {
+    "phone": "(511) 229-1586",
+    "servicePhone": "800181256"
+  },
+  "birthday": "1991-04-12T21:42:19.480Z",
+  "ip": "3.68.49.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Sipzin awer babezzi niwzodgo sojafa na jivra ticpug sagip letwiah gap assapfu gegaka low pu okreza. Nancupev lojur wopum sipa ewrot wus zeezi gap bug lahocho ap kiwenme jiuppu jehisosu eha osinalnak bajpurfan vigfe. Itwu ivu catsu usofi dodwuhcoh anuziov wortarim fardohas fepiuju am ebaududah noh ok ecdabo.",
+    "bio": "Cilojziw jas gemfev tipici kafga saloviw enuusezi bokoj biw rumfimica pik ucijgem omiro gec watehu. Pozhe ofoin pogeja fivpepen ul lug ulecomwa nuw jelwiuje ipka tuho ehwipo. Monce murlobuv izvah mo zahan uh baca zokcog tac zorat giluku afe verun la kibu more zovawi octef."
+  },
+  "apiKey": "d5889e375fad06d138813115551e4cbdb2fb8a685773acc039a04180341e92ae",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
