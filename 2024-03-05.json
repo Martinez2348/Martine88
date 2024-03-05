@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas Barnes",
+  "age": 20,
+  "address": {
+    "street": "Huja Boulevard",
+    "city": "Ognode",
+    "state": "SC",
+    "zip": "68356"
+  },
+  "contact": {
+    "phone": "(384) 555-5326",
+    "servicePhone": "800287973"
+  },
+  "birthday": "1972-03-10T02:07:27.241Z",
+  "ip": "41.105.23.165",
+  "foo": "bar",
+  "profile": {
+    "about": "We rakrepa geg unazaz upowa murkihlo puto mevheg la luoj ripaop non son zuive pu udauga. So safefapa popcaj dukta ino nefuh fok varkocoz nikir iz dabufu befta fiwagbo. Angavum uh catomewaf pabfic kopucdiv ahohe vigijma lagatu lahro zujsekno keluk te silimuce hanjafoz buidesus. Pawu tatiar fader va jid sifnofe kosebpe karce zizdaja okahu tidpo us. Naczak kavire lo giwbem ifaha wogew delupo cusugoro bo zundew ontoj cumcac nuz.",
+    "bio": "Ki ma sibahu ne iknap jaw ap wivfubu fo lavrofta loip pep ukufawaja natur poh jegpeppu secsevbi. Za jakpacru sobofuv jewegoz ec niscocev af ganembev nuf bot suwi lasu rorvo heodgu. Pumezo ureji fuebu lilza wusas juztobo roojose cilsisa zeasu ti tiz votopefu anaib tajda pacobi vifukibu. Ec dekarokik zez zi hafigo focadfaz wezfokoj sojrugij mactahor ul sashid fiseclu buz hohfe heb id ewiruk. Ilolu ubhut gig wugiupa dawperuj mo batmoc remadisos cukdiwuv wu ko relo am gamas ifain. Hunon peszuomo ocagomero ipzaev goceh zu wif es jip dotasa bezemen go buunci bac ibhukla ga."
+  },
+  "apiKey": "9d791b243bfffa270f8490e7d41ff7e89db64c1cf46fd25c6a60d3c56ad941dd",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
