@@ -1,0 +1,26 @@
+{
+  "name": "Carl Hunter",
+  "age": 41,
+  "address": {
+    "street": "Ubga Highway",
+    "city": "Umatasa",
+    "state": "UT",
+    "zip": "43080"
+  },
+  "contact": {
+    "phone": "(544) 357-3938",
+    "servicePhone": "800927829"
+  },
+  "birthday": "1979-01-12T18:58:39.797Z",
+  "ip": "237.82.130.68",
+  "foo": "bar",
+  "profile": {
+    "about": "Vaoh ar ir vev oj kerhotiku bep zupbegsa duvzic zehkuskib mo idfam kochadoz jetom het vuj ke gecbudpod. Ugsirtic ol derradeg it bukun vam mev waj mihedob dekdib ub rumaup ozu vuhtoc azo meuljef gohowil lefuw. Iblevjif unuophiv sarvi nijkem sazewo ap kaj kanmi vi jipibo raviepu ocucicme havehdo.",
+    "bio": "Wezpigto hopvaze jisin jujgomfu veej cofhap vah ro nivgugzuc fisotaz bimeahu za nudra ci. Ebiodsob nof oha pij zu puzuneiti teehrik lolnerad suvkomtev rofomuci zipro bo jufi membokpes. Julkodo tartot mivvu zavo eho fahfi hozime nij cira ecehojam lezjepin iloeclug dokmin rietsiz raic elsu. Botew weonuzab bi rijwe uta wocfebmi fukuwar pawroz tob waevlog hognopcu roze ba wojore jij do wuef feafe. Huw danud de ovi dijor kohgeg bacad galufa fophedip hicucvin rap gamozwa le. Di gep go upo pit cojet uhako ro dab vezoc ekulow neb sanirki."
+  },
+  "apiKey": "72d9e811dcf7130c4f892ab2c6c22c607e87bcce90175058bc28441aec82df04",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
