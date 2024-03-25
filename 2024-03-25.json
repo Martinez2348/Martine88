@@ -1,0 +1,26 @@
+{
+  "name": "Hallie Fisher",
+  "age": 28,
+  "address": {
+    "street": "Dues Manor",
+    "city": "Neloji",
+    "state": "WI",
+    "zip": "84711"
+  },
+  "contact": {
+    "phone": "(803) 431-3548",
+    "servicePhone": "800985886"
+  },
+  "birthday": "1984-02-14T19:01:02.817Z",
+  "ip": "9.161.147.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Ges fan doriw mel ju pokugil gevorad zu hubir kum to bu coglirfuk sojez vetlavar. Pajelzi fema suesunu kunse licuge iz lanfa oveweh tij giro jecfo burdizbaj pi kewukgiz gifbewej agu huzfutra. Ba epam le sel zukgozi esatiglot hikjiz he deceeto avkaku giowvo mikefuj era haiw pif warej.",
+    "bio": "Rokrozrit wihew meivvo bi ek aseizifir lubuvor eg udto otmeta vo ihazovzaj gefbubu wos ero hog noekdid. An roncij kagu tabvujga hejseri cerhubkov mari bijva rotika zebfiswij coet mudarcu. Ze jamito domwacdum ha pi mapfepiv juenonu wazagleg binroleb ema lim kijveir igu. Vule unari ilsovhal zirohtad ugo tu gav up cakcub pufe haol lokbom tecu id senor tehitcup uglovo lo."
+  },
+  "apiKey": "655eeab08c10efbe695f7353f2b6659e443545d182437cf76572b41a16f16d8e",
+  "currency": {
+    "code": "AWG",
+    "name": "Aruba Guilder"
+  }
+}
