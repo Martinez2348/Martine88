@@ -1,0 +1,26 @@
+{
+  "name": "Donald Nguyen",
+  "age": 55,
+  "address": {
+    "street": "Puwib Way",
+    "city": "Sakeki",
+    "state": "DC",
+    "zip": "93123"
+  },
+  "contact": {
+    "phone": "(507) 520-5204",
+    "servicePhone": "800868396"
+  },
+  "birthday": "1964-02-08T11:00:47.338Z",
+  "ip": "1.130.49.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Mepuzijod tev nizduc umrekce wohemodeb ujoov am jivjajgin legzibav pumhawe go epoufuja atjaw rik uftodu hov. Nah ziw vubifuk nibimwe zok ihahzo eruit ipi powi gupje vas or. Je madih zujzow onni pucov eptedlu kuppichep bon feliwa jozesujo jeli imde covnidap sidnu fu. Lisemav gufpek wero mozfolgu bepis riziir lokozin medipam juzrucjip zugillo guuw zed esosani evarujeb tokosoki foc.",
+    "bio": "Asecep segfuhgaf soukewe gije areri id rer lo uvpe of lo wetro pacum wiceses. Raowo zo ulo etevecla om nipwufco fuaju ogaca soca paok lopul efu wu dehfimoj ciwij loekodi mof tuconeot. Poc miw web obu etu fowiwu ja sar vurat cufatev bep ihmegib anilalkag lud did egle."
+  },
+  "apiKey": "1c4ed7d571c2f9a995da150633abc3f7a999b1a042a139ced93a01f5fdfb7234",
+  "currency": {
+    "code": "LKR",
+    "name": "Sri Lanka Rupee"
+  }
+}
