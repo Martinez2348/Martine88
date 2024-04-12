@@ -1,0 +1,26 @@
+{
+  "name": "Juan Frank",
+  "age": 23,
+  "address": {
+    "street": "Rawek Terrace",
+    "city": "Vulezni",
+    "state": "NE",
+    "zip": "16707"
+  },
+  "contact": {
+    "phone": "(927) 665-7012",
+    "servicePhone": "800392257"
+  },
+  "birthday": "1989-09-26T01:58:57.803Z",
+  "ip": "191.192.215.236",
+  "foo": "bar",
+  "profile": {
+    "about": "Lumuwub fuz ozijawlef jatew omu biceze kugse mis udemen mu ob fedi. Tabok savivad dabagvej bebzuhu aho ki vodur be ti palkas laivhi juppivid oha. Lij dujew koaz rog nafvobud puppoeji hovrojer sevemo epiuboaje vi ziw juacpof hu ugezozpip koolegez ete apka.",
+    "bio": "Nun zupcoeru miphin ipurilmo pa dof ma feow ta teecuuv rel zibwibke abzeeno zakujicuz. Cipogunab de gosuzwi oztuiru su rujuvho deolup recfoz loc zocoba uk ci lifoc icjat tasonoba nocriwnu moga joico. Dutom gutme odi zemo mitcuv hil sajgacop wobe gug uw mok reci topag vo. Tonur la ekkabiri cah nuuj ugikih ofgaroh ifaajaro botjuz wasbeg tuc cuhgikdil bumemdu sekcatu ic. Buphurej rufi cotda jomajki ew gagogsed do so ih ruwzivij li bekima."
+  },
+  "apiKey": "7bb701234fc08f46a5e9766868c7d18f29fadf433d9904caaf66d8bc4edeb674",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
